@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Project Zomboid CCTV Tracker
+Comment=Highway Corridor Vehicle Re-ID & Multi-Attribute Tracking Workstation
+Exec=/home/rhythm/Projects/camtest/run.sh
+Path=/home/rhythm/Projects/camtest
+Terminal=false
+Type=Application
+Categories=Development;Science;
